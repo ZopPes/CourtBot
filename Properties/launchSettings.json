@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CourtBot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
